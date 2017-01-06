@@ -3,4 +3,14 @@
 }
 body{
     background-color:blue;
+    text-align:center;
+}
+.list {
+    text-align: center;
+}
+li{
+    font-size:40px;
+}
+h1{
+    font-size:40px;
 }
